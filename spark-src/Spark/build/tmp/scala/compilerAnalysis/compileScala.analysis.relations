@@ -1,116 +1,33 @@
 products:
-   C:\Users\monyg\Desktop\Spark\src\main\scala\EntryPoint.scala -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\EntryPoint$.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\EntryPoint.scala -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\EntryPoint$delayedInit$body.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\EntryPoint.scala -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\EntryPoint.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise1\WordCount.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise1\WordCount$IntSumReducer.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise1\WordCount.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise1\WordCount$TokenizerMapper.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise1\WordCount.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise1\WordCount.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise2\WordLengthCount.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise2\WordLengthCount$IntSumReducer.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise2\WordLengthCount.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise2\WordLengthCount$TokenizerMapper.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise2\WordLengthCount.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise2\WordLengthCount.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperature.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise3\AvgTemperature.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureMapper.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise3\AvgTemperatureMapper.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureReducer.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise3\AvgTemperatureReducer.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperature.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise3\MaxTemperature.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureCombiner.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise3\MaxTemperatureCombiner.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureMapper.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise3\MaxTemperatureMapper.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureReducer.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise3\MaxTemperatureReducer.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureWithCombiner.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise3\MaxTemperatureWithCombiner.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4AverageWordLength.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise4\Ex4AverageWordLength$Ex4Mapper.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4AverageWordLength.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise4\Ex4AverageWordLength$Ex4Reducer.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4AverageWordLength.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise4\Ex4AverageWordLength.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4InvertedIndex.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise4\Ex4InvertedIndex$Ex4Mapper.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4InvertedIndex.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise4\Ex4InvertedIndex$Ex4Reducer.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4InvertedIndex.java -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\exercise4\Ex4InvertedIndex.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\SparkWordCount.scala -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\SparkWordCount$.class
-   C:\Users\monyg\Desktop\Spark\src\main\scala\SparkWordCount.scala -> C:\Users\monyg\Desktop\Spark\build\classes\scala\main\SparkWordCount.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\EntryPoint$.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\EntryPoint$delayedInit$body.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\EntryPoint.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$1.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$2.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$3.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$4.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$5.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$6.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount.class
 binary dependencies:
-   C:\Users\monyg\Desktop\Spark\src\main\scala\EntryPoint.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\EntryPoint.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\EntryPoint.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.4\7663f74ef944453c86cc7e6597ed33e9281f6412\scala-library-2.12.4.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise1\WordCount.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise1\WordCount.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-common-2.6.0-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise1\WordCount.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-core-2.6.0-mr1-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise2\WordLengthCount.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise2\WordLengthCount.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-common-2.6.0-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise2\WordLengthCount.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-core-2.6.0-mr1-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperature.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperature.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-common-2.6.0-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperature.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-core-2.6.0-mr1-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureMapper.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureMapper.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-common-2.6.0-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureMapper.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-core-2.6.0-mr1-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureReducer.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureReducer.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-common-2.6.0-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureReducer.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-core-2.6.0-mr1-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperature.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperature.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-common-2.6.0-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperature.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-core-2.6.0-mr1-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureCombiner.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureCombiner.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-common-2.6.0-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureCombiner.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-core-2.6.0-mr1-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureMapper.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureMapper.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-common-2.6.0-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureMapper.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-core-2.6.0-mr1-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureReducer.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureReducer.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-common-2.6.0-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureReducer.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-core-2.6.0-mr1-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureWithCombiner.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureWithCombiner.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-common-2.6.0-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureWithCombiner.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-core-2.6.0-mr1-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4AverageWordLength.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4AverageWordLength.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-common-2.6.0-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4AverageWordLength.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-core-2.6.0-mr1-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4InvertedIndex.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4InvertedIndex.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-common-2.6.0-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4InvertedIndex.java -> C:\Users\monyg\Desktop\Spark\hadoop-min-jars\hadoop-core-2.6.0-mr1-cdh5.13.1.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\SparkWordCount.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\SparkWordCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
-   C:\Users\monyg\Desktop\Spark\src\main\scala\SparkWordCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.4\7663f74ef944453c86cc7e6597ed33e9281f6412\scala-library-2.12.4.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
 source dependencies:
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise1\WordCount.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise1\WordCount.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise2\WordLengthCount.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise2\WordLengthCount.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperature.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperature.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperature.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureMapper.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperature.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureReducer.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureMapper.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureMapper.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureReducer.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureReducer.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperature.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperature.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperature.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureMapper.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperature.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureReducer.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureCombiner.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureCombiner.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureMapper.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureMapper.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureReducer.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureReducer.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureWithCombiner.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureCombiner.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureWithCombiner.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureMapper.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureWithCombiner.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureReducer.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureWithCombiner.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureWithCombiner.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4AverageWordLength.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4AverageWordLength.java
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4InvertedIndex.java -> C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4InvertedIndex.java
 external dependencies:
 class names:
-   C:\Users\monyg\Desktop\Spark\src\main\scala\EntryPoint.scala -> EntryPoint
-   C:\Users\monyg\Desktop\Spark\src\main\scala\EntryPoint.scala -> EntryPoint$
-   C:\Users\monyg\Desktop\Spark\src\main\scala\EntryPoint.scala -> EntryPoint$delayedInit$body
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise1\WordCount.java -> exercise1.WordCount
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise1\WordCount.java -> exercise1.WordCount$IntSumReducer
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise1\WordCount.java -> exercise1.WordCount$TokenizerMapper
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise2\WordLengthCount.java -> exercise2.WordLengthCount
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise2\WordLengthCount.java -> exercise2.WordLengthCount$IntSumReducer
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise2\WordLengthCount.java -> exercise2.WordLengthCount$TokenizerMapper
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperature.java -> exercise3.AvgTemperature
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureMapper.java -> exercise3.AvgTemperatureMapper
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\AvgTemperatureReducer.java -> exercise3.AvgTemperatureReducer
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperature.java -> exercise3.MaxTemperature
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureCombiner.java -> exercise3.MaxTemperatureCombiner
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureMapper.java -> exercise3.MaxTemperatureMapper
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureReducer.java -> exercise3.MaxTemperatureReducer
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise3\MaxTemperatureWithCombiner.java -> exercise3.MaxTemperatureWithCombiner
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4AverageWordLength.java -> exercise4.Ex4AverageWordLength
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4AverageWordLength.java -> exercise4.Ex4AverageWordLength$Ex4Mapper
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4AverageWordLength.java -> exercise4.Ex4AverageWordLength$Ex4Reducer
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4InvertedIndex.java -> exercise4.Ex4InvertedIndex
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4InvertedIndex.java -> exercise4.Ex4InvertedIndex$Ex4Mapper
-   C:\Users\monyg\Desktop\Spark\src\main\scala\exercise4\Ex4InvertedIndex.java -> exercise4.Ex4InvertedIndex$Ex4Reducer
-   C:\Users\monyg\Desktop\Spark\src\main\scala\SparkWordCount.scala -> SparkWordCount
-   C:\Users\monyg\Desktop\Spark\src\main\scala\SparkWordCount.scala -> SparkWordCount$
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> exercise1.EntryPoint
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> exercise1.EntryPoint$
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> exercise1.EntryPoint$delayedInit$body
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$1
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$2
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$3
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$4
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$5
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$6
