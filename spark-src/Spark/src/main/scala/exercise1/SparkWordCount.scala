@@ -6,7 +6,7 @@ object SparkWordCount {
   def main(args: Array[String]): Unit ={
 
     //spark2-submit --class exercise1.SparkWordCount Spark.jar
-    
+
     val sc = new SparkContext(new SparkConf().setAppName("Spark Count"))
 
     val rddCapra = sc.textFile("hdfs:/bigdata/dataset/capra/capra.txt")
