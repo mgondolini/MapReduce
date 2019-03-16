@@ -1,33 +1,107 @@
 products:
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\EntryPoint$.class
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\EntryPoint$delayedInit$body.class
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\EntryPoint.class
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$1.class
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$2.class
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$3.class
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$4.class
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$5.class
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$6.class
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$.class
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\EntryPoint$.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\EntryPoint$delayedInit$body.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\EntryPoint.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$$anonfun$1.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$$anonfun$2.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$$anonfun$3.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$$anonfun$4.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$1.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$2.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$3.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$4.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$5.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$6.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$1.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$2.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$3.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$4.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$5.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$1.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$10.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$11.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$12.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$2.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$3.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$4.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$5.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$6.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$7.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$8.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$9.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1d\SparkInvertedIndex$$anonfun$1.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1d\SparkInvertedIndex$$anonfun$2.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1d\SparkInvertedIndex$.class
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1d\SparkInvertedIndex.class
 binary dependencies:
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
 source dependencies:
 external dependencies:
 class names:
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> exercise1.EntryPoint
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> exercise1.EntryPoint$
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> exercise1.EntryPoint$delayedInit$body
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$1
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$2
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$3
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$4
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$5
-   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$6
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> exercise0.EntryPoint
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> exercise0.EntryPoint$
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> exercise0.EntryPoint$delayedInit$body
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0.WarmUp
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0.WarmUp$
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0.WarmUp$$anonfun$1
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0.WarmUp$$anonfun$2
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0.WarmUp$$anonfun$3
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0.WarmUp$$anonfun$4
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$$anonfun$1
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$$anonfun$2
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$$anonfun$3
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$$anonfun$4
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$$anonfun$5
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$$anonfun$6
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount$
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount$$anonfun$1
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount$$anonfun$2
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount$$anonfun$3
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount$$anonfun$4
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount$$anonfun$5
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$1
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$10
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$11
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$12
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$2
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$3
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$4
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$5
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$6
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$7
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$8
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$9
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> exercise1d.SparkInvertedIndex
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> exercise1d.SparkInvertedIndex$
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> exercise1d.SparkInvertedIndex$$anonfun$1
+   C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> exercise1d.SparkInvertedIndex$$anonfun$2

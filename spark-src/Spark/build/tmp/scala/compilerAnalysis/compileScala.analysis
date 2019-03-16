@@ -30,26 +30,69 @@ name hashing:
 1 items
 0 -> true
 products:
-11 items
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\EntryPoint$.class
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\EntryPoint$delayedInit$body.class
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\EntryPoint.class
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$1.class
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$2.class
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$3.class
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$4.class
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$5.class
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$6.class
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$.class
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount.class
+42 items
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\EntryPoint$.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\EntryPoint$delayedInit$body.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\EntryPoint.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$$anonfun$1.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$$anonfun$2.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$$anonfun$3.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$$anonfun$4.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$1.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$2.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$3.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$4.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$5.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$6.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$1.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$2.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$3.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$4.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$5.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$1.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$10.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$11.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$12.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$2.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$3.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$4.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$5.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$6.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$7.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$8.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$9.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1d\SparkInvertedIndex$$anonfun$1.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1d\SparkInvertedIndex$$anonfun$2.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1d\SparkInvertedIndex$.class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1d\SparkInvertedIndex.class
 binary dependencies:
-6 items
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+18 items
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -67,106 +110,437 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-11 items
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> exercise1.EntryPoint
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> exercise1.EntryPoint$
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> exercise1.EntryPoint$delayedInit$body
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$1
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$2
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$3
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$4
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$5
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1.SparkWordCount$$anonfun$6
+42 items
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> exercise0.EntryPoint
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> exercise0.EntryPoint$
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> exercise0.EntryPoint$delayedInit$body
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0.WarmUp
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0.WarmUp$
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0.WarmUp$$anonfun$1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0.WarmUp$$anonfun$2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0.WarmUp$$anonfun$3
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0.WarmUp$$anonfun$4
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$$anonfun$1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$$anonfun$2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$$anonfun$3
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$$anonfun$4
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$$anonfun$5
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a.SparkWordCount$$anonfun$6
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount$
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount$$anonfun$1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount$$anonfun$2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount$$anonfun$3
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount$$anonfun$4
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b.SparkWordLengthCount$$anonfun$5
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$10
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$11
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$12
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$3
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$4
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$5
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$6
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$7
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$8
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c.SparkWordAverageLengthCount$$anonfun$9
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> exercise1d.SparkInvertedIndex
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> exercise1d.SparkInvertedIndex$
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> exercise1d.SparkInvertedIndex$$anonfun$1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> exercise1d.SparkInvertedIndex$$anonfun$2
 used names:
-69 items
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> <init>
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> App
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> EntryPoint
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> Object
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> SparkContext
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> apache
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> exercise1
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> getOrCreate
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> org
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> sc
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> scala
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> spark
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> +
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> <init>
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> Any
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> AnyRef
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> Array
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> ArrayOps
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> Class
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> ClassTag
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> Function1
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> Function2
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> Int
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> Long
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> Nothing
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> Object
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> Predef
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> RDD
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> SparkConf
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> SparkContext
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> SparkWordCount
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> String
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> T
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> TraversableOnce
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> U
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> Unit
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> _$7
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> apache
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> apply
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> capraCollect
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> capraCount
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> collect
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> count
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> dcCollect
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> dcCount
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> exercise1
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> flatMap
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> length
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> map
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> materializeClassTag
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> org
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> package
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> println
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> rddCapra
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> rddCapraWords
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> rddDc
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> rddDcWords
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> reduce
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> reduceCapra
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> reduceDc
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> refArrayOps
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> sc
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> scala
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> setAppName
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> spark
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> split
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> textFile
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> x
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> y
+334 items
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> <init>
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> App
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> EntryPoint
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> Object
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> SparkContext
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> apache
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> exercise0
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> getOrCreate
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> org
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> sc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> scala
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> spark
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> <init>
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> Any
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> AnyRef
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> Array
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> ArrayOps
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> Class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> ClassTag
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> Function1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> Int
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> Long
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> Nothing
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> Object
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> Predef
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> RDD
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> ScalaRunTime
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> SparkConf
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> SparkContext
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> String
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> T
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> TraversableOnce
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> U
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> Unit
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> WarmUp
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> _$3
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> _$4
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> _$7
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> apache
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> apply
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> arrayClass
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> collect
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> count
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> exercise0
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> flatMap
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> map
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> materializeClassTag
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> org
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> package
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> println
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> rddCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> rddCapraWords1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> rddCapraWords2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> rddDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> rddDcWords1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> rddDcWords2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> refArrayOps
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> sc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> scala
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> setAppName
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> spark
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> split
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> textFile
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> x
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> +
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> <init>
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Any
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> AnyRef
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Array
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> ArrayOps
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> ClassTag
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Function1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Function2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Int
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> K
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Long
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Nothing
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Object
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Ordering
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> PairRDDFunctions
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Predef
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> RDD
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> SparkConf
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> SparkContext
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> SparkWordCount
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> String
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> T
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> T1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> T2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> TraversableOnce
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Tuple2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> U
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> Unit
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> V
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> _$7
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> apache
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> apply
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> collect
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> count
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> exercise1a
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> flatMap
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> map
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> materializeClassTag
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> math
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> org
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> package
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> println
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> rdd
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> rddCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> rddCapraWords2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> rddDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> rddDcWords2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> rddMapCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> rddMapDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> rddReduceCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> rddReduceDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> rddToPairRDDFunctions
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> reduceByKey
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> refArrayOps
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> sc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> scala
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> setAppName
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> spark
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> split
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> take
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> textFile
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> x
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> y
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> +
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> <init>
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Any
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> AnyRef
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Array
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> ArrayOps
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> ClassTag
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Function1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Function2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Int
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> K
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Long
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Nothing
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Object
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Ordering
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> PairRDDFunctions
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Predef
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> RDD
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> SparkConf
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> SparkContext
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> SparkWordLengthCount
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> String
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> T
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> T1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> T2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> TraversableOnce
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Tuple2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> U
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> Unit
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> V
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> _$7
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> apache
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> apply
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> collect
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> count
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> exercise1b
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> flatMap
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> length
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> map
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> materializeClassTag
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> math
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> org
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> package
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> println
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> rdd
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> rddCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> rddCapraWords2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> rddDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> rddDcWords2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> rddMapCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> rddMapDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> rddReduceDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> rddToPairRDDFunctions
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> reduceByKey
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> refArrayOps
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> sc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> scala
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> setAppName
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> spark
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> split
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> textFile
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> x
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> y
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> +
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> /
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> <init>
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> >
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Any
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> AnyRef
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Array
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> ArrayOps
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Boolean
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> ClassTag
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Double
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Function1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Function2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Int
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> K
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Long
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> MatchError
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Nothing
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Object
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Ordering
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> PairRDDFunctions
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Predef
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> RDD
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> SparkConf
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> SparkContext
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> SparkWordAverageLengthCount
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> String
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> T
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> T1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> T2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> TraversableOnce
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Tuple2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> U
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> Unit
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> V
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> _$7
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> _1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> _2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> a
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> a1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> a2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> aggregateByKey
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> apache
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> apply
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> collect
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> count
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> exercise1c
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> filter
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> flatMap
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> k
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> length
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> map
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> materializeClassTag
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> math
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> ne
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> org
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> package
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> println
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> rdd
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> rddCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> rddCapraWords2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> rddDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> rddDcWords2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> rddFinalCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> rddFinalDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> rddMapCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> rddMapDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> rddReduceCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> rddReduceDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> rddToPairRDDFunctions
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> refArrayOps
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> sc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> scala
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> setAppName
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> spark
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> split
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> substring
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> textFile
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> v
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> x
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> <init>
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Any
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> AnyRef
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Array
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> ArrayOps
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Class
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> ClassTag
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Function1
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Int
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Iterable
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> K
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Long
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Nothing
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Object
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Ordering
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> PairRDDFunctions
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Predef
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> RDD
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> SparkConf
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> SparkContext
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> SparkInvertedIndex
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> String
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> T
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> TraversableOnce
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Tuple2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> U
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> Unit
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> V
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> _$7
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> apache
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> apply
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> collect
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> count
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> exercise1d
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> flatMap
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> groupByKey
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> materializeClassTag
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> math
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> org
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> package
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> println
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> rdd
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> rddCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> rddCapraWords2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> rddDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> rddDcWords2
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> rddGroupCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> rddGroupDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> rddMapCapra
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> rddMapDc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> rddToPairRDDFunctions
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> refArrayOps
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> sc
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> scala
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> setAppName
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> spark
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> split
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> textFile
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> x
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> zipWithIndex
 product stamps:
-11 items
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\EntryPoint$.class -> lastModified(1552652913694)
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\EntryPoint$delayedInit$body.class -> lastModified(1552652913710)
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\EntryPoint.class -> lastModified(1552652913601)
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$1.class -> lastModified(1552652913788)
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$2.class -> lastModified(1552652913804)
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$3.class -> lastModified(1552652913819)
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$4.class -> lastModified(1552652913835)
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$5.class -> lastModified(1552652913851)
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$$anonfun$6.class -> lastModified(1552652913851)
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount$.class -> lastModified(1552652913773)
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1\SparkWordCount.class -> lastModified(1552652913741)
+42 items
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\EntryPoint$.class -> lastModified(1552753099014)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\EntryPoint$delayedInit$body.class -> lastModified(1552753099046)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\EntryPoint.class -> lastModified(1552753098936)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$$anonfun$1.class -> lastModified(1552753099077)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$$anonfun$2.class -> lastModified(1552753099092)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$$anonfun$3.class -> lastModified(1552753099108)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$$anonfun$4.class -> lastModified(1552753099108)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp$.class -> lastModified(1552753099077)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise0\WarmUp.class -> lastModified(1552753099061)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$1.class -> lastModified(1552753099139)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$2.class -> lastModified(1552753099139)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$3.class -> lastModified(1552753099155)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$4.class -> lastModified(1552753099155)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$5.class -> lastModified(1552753099171)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$$anonfun$6.class -> lastModified(1552753099171)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount$.class -> lastModified(1552753099124)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1a\SparkWordCount.class -> lastModified(1552753099108)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$1.class -> lastModified(1552753099202)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$2.class -> lastModified(1552753099202)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$3.class -> lastModified(1552753099217)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$4.class -> lastModified(1552753099233)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$$anonfun$5.class -> lastModified(1552753099233)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount$.class -> lastModified(1552753099186)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1b\SparkWordLengthCount.class -> lastModified(1552753099171)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$1.class -> lastModified(1552753099249)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$10.class -> lastModified(1552753099264)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$11.class -> lastModified(1552753099264)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$12.class -> lastModified(1552753099264)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$2.class -> lastModified(1552753099280)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$3.class -> lastModified(1552753099280)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$4.class -> lastModified(1552753099295)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$5.class -> lastModified(1552753099295)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$6.class -> lastModified(1552753099295)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$7.class -> lastModified(1552753099311)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$8.class -> lastModified(1552753099311)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$$anonfun$9.class -> lastModified(1552753099327)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount$.class -> lastModified(1552753099249)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1c\SparkWordAverageLengthCount.class -> lastModified(1552753099233)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1d\SparkInvertedIndex$$anonfun$1.class -> lastModified(1552753099358)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1d\SparkInvertedIndex$$anonfun$2.class -> lastModified(1552753099374)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1d\SparkInvertedIndex$.class -> lastModified(1552753099342)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\build\classes\scala\main\exercise1d\SparkInvertedIndex.class -> lastModified(1552753099342)
 source stamps:
-2 items
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> hash(ca8ba555d788d29a661d52a36467fd4fd3eb07e0)
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> hash(08574aa2e0e67231e3bbfb2d66f6f1c19e3b88f6)
+6 items
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> hash(dec7b800f374eb8834aabf7c041a6654f81371da)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> hash(4e1631686f3dcae42f70e897a424bb23529f12fa)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> hash(5878a488e10818dbe67ff29e73376e452f8f8a9a)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> hash(d745f649f6facbb91b3e09fc44f404015a28d9e6)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> hash(d9847d94a5725b9a9b571b23a617d942f8f68e86)
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> hash(f9e80180cc0303bdf3006800e8b2ea3b301cfd31)
 binary stamps:
 3 items
 C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar -> lastModified(1537365710765)
@@ -175,22 +549,38 @@ C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2
 class names:
 3 items
 C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar -> java.lang.Object
-C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkContext
-C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar -> scala.reflect.ClassTag$
+C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.1.0\724bfcfc939a1c8a4d6d3b95497c0032d9102ec6\spark-core_2.11-2.1.0.jar -> org.apache.spark.rdd.RDD$
+C:\Users\monyg\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar -> scala.package$
 internal apis:
-2 items
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+mLvrwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw5TfcFXQABm5vdGlmeXNxAH4ADDFD/0R0AAR3YWl0c3EAfgAMLU05hXQADSRhc0luc3RhbmNlT2ZzcQB+AAx4M4pLdAAGZXF1YWxzc3EAfgAM719QjHQADGFzSW5zdGFuY2VPZnNxAH4ADDaQZcl0AA5leGVjdXRpb25TdGFydHNxAH4ADG2ZGkZ0AAxzeW5jaHJvbml6ZWRzcQB+AAz4yiq2dAACc2NzcQB+AAzorhYMdAANJGlzSW5zdGFuY2VPZnNxAH4ADCm+0l10AARtYWluc3EAfgAMauSkfnQACW5vdGlmeUFsbHNxAH4ADILcTxx0AAxpc0luc3RhbmNlT2ZzcQB+AAxef6IPdAACPT1zcQB+AAxKZ61udAAKRW50cnlQb2ludHNxAH4ADLeA4mF0AAVjbG9uZXNxAH4ADOy5rCp0AAYkaW5pdCRzcQB+AAwIVEaldAAIdG9TdHJpbmdzcQB+AAw1p/96dAAEYXJnc3NxAH4ADD53URZ0AAIhPXNxAH4ADAuhont0AAhnZXRDbGFzc3NxAH4ADJjlp1R0AAJuZXNxAH4ADAA+bOZ0AAJlcXNxAH4ADG2gOnV0AAtkZWxheWVkSW5pdHNxAH4ADEd/9k90AAIjI3NxAH4ADIXr79F0AAhmaW5hbGl6ZXNxAH4ADHJsMsl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABRleGVyY2lzZTEuRW50cnlQb2ludHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGpzcQB+AGV1cQB+AEYAAAAAc3EAfgBldXEAfgBGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBMcQB+AFV1cQB+AFYAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB0eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjnNxAH4AWABxAH4AIXVxAH4AWwAAAABzcQB+AIF0AARVbml0cQB+AId1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB0eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBedAAFUGxhaW5xAH4AMXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AglsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AaXNxAH4AgXQABUFycmF5cQB+AId1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AgXQABlN0cmluZ3NxAH4AhXNxAH4AiHVxAH4AiwAAAANzcQB+AI10AARqYXZhc3EAfgCNdAAEbGFuZ3EAfgCSc3EAfgBldXEAfgCpAAAABHNxAH4AgXQAA0FwcHEAfgCHc3EAfgCBdAALRGVsYXllZEluaXRxAH4Ah3NxAH4AgXQABk9iamVjdHEAfgCtc3EAfgCBdAADQW55cQB+AId1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAlleGVyY2lzZTFzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWmBUz18dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAS0M6XFVzZXJzXG1vbnlnXERlc2t0b3BcYmlnZGF0YTE4MTlcc3Bhcmstc3JjXFNwYXJrXGJ1aWxkXGNsYXNzZXNcc2NhbGFcbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMqLpVXXiNKaZh1So2Rn/U/T6wfg
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwh3wLWwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwLFySxnQABm5vdGlmeXNxAH4ADHYLKEt0AAR3YWl0c3EAfgAM1ReGAXQADSRhc0luc3RhbmNlT2ZzcQB+AAzh83GqdAAGZXF1YWxzc3EAfgAM4MePHHQADGFzSW5zdGFuY2VPZnNxAH4ADNSVr/50AAxzeW5jaHJvbml6ZWRzcQB+AAztiNZUdAANJGlzSW5zdGFuY2VPZnNxAH4ADLebhjx0AARtYWluc3EAfgAMndtufHQACW5vdGlmeUFsbHNxAH4ADGpcsV90AAxpc0luc3RhbmNlT2ZzcQB+AAye24q9dAACPT1zcQB+AAzoQbLxdAAFY2xvbmVzcQB+AAzjHargdAAOU3BhcmtXb3JkQ291bnRzcQB+AAwL4csQdAAIdG9TdHJpbmdzcQB+AAyivgSNdAACIT1zcQB+AAwce7pzdAAIZ2V0Q2xhc3NzcQB+AAyQ9Em5dAACbmVzcQB+AAyd8PPbdAACZXFzcQB+AAyZnBcndAACIyNzcQB+AAzpggSLdAAIZmluYWxpemVzcQB+AAzv+cuTdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAYZXhlcmNpc2UxLlNwYXJrV29yZENvdW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWV4ZXJjaXNlMXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaYFTPXx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLQzpcVXNlcnNcbW9ueWdcRGVza3RvcFxiaWdkYXRhMTgxOVxzcGFyay1zcmNcU3BhcmtcYnVpbGRcY2xhc3Nlc1xzY2FsYVxtYWludAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUCFdKouDmcjHju/stZvbxwZ47iPY=
+6 items
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw2oXgDQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw5TfcFXQABm5vdGlmeXNxAH4ADDFD/0R0AAR3YWl0c3EAfgAMLU05hXQADSRhc0luc3RhbmNlT2ZzcQB+AAx4M4pLdAAGZXF1YWxzc3EAfgAM719QjHQADGFzSW5zdGFuY2VPZnNxAH4ADDaQZcl0AA5leGVjdXRpb25TdGFydHNxAH4ADG2ZGkZ0AAxzeW5jaHJvbml6ZWRzcQB+AAz4yiq2dAACc2NzcQB+AAzorhYMdAANJGlzSW5zdGFuY2VPZnNxAH4ADCm+0l10AARtYWluc3EAfgAMauSkfnQACW5vdGlmeUFsbHNxAH4ADILcTxx0AAxpc0luc3RhbmNlT2ZzcQB+AAxef6IPdAACPT1zcQB+AAwX1YYCdAAKRW50cnlQb2ludHNxAH4ADLeA4mF0AAVjbG9uZXNxAH4ADOy5rCp0AAYkaW5pdCRzcQB+AAwIVEaldAAIdG9TdHJpbmdzcQB+AAw1p/96dAAEYXJnc3NxAH4ADD53URZ0AAIhPXNxAH4ADAuhont0AAhnZXRDbGFzc3NxAH4ADJjlp1R0AAJuZXNxAH4ADAA+bOZ0AAJlcXNxAH4ADG2gOnV0AAtkZWxheWVkSW5pdHNxAH4ADEd/9k90AAIjI3NxAH4ADIXr79F0AAhmaW5hbGl6ZXNxAH4ADHJsMsl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABRleGVyY2lzZTAuRW50cnlQb2ludHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGpzcQB+AGV1cQB+AEYAAAAAc3EAfgBldXEAfgBGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBMcQB+AFV1cQB+AFYAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB0eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjnNxAH4AWABxAH4AIXVxAH4AWwAAAABzcQB+AIF0AARVbml0cQB+AId1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB0eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBedAAFUGxhaW5xAH4AMXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AglsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AaXNxAH4AgXQABUFycmF5cQB+AId1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AgXQABlN0cmluZ3NxAH4AhXNxAH4AiHVxAH4AiwAAAANzcQB+AI10AARqYXZhc3EAfgCNdAAEbGFuZ3EAfgCSc3EAfgBldXEAfgCpAAAABHNxAH4AgXQAA0FwcHEAfgCHc3EAfgCBdAALRGVsYXllZEluaXRxAH4Ah3NxAH4AgXQABk9iamVjdHEAfgCtc3EAfgCBdAADQW55cQB+AId1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAlleGVyY2lzZTBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWmHS+2ddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAS0M6XFVzZXJzXG1vbnlnXERlc2t0b3BcYmlnZGF0YTE4MTlcc3Bhcmstc3JjXFNwYXJrXGJ1aWxkXGNsYXNzZXNcc2NhbGFcbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFN7HuADzdOuINKq/fAQaZlT4E3Ha
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwbUvYAAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwz8uecnQABldhcm1VcHNxAH4ADIYwDiB0AAZub3RpZnlzcQB+AAzKf5+2dAAEd2FpdHNxAH4ADPqeHK90AA0kYXNJbnN0YW5jZU9mc3EAfgAMcb6XxXQABmVxdWFsc3NxAH4ADCezQrt0AAxhc0luc3RhbmNlT2ZzcQB+AAyAsOI1dAAMc3luY2hyb25pemVkc3EAfgAMOVoaiXQADSRpc0luc3RhbmNlT2ZzcQB+AAwZzS7SdAAEbWFpbnNxAH4ADAaN3dJ0AAlub3RpZnlBbGxzcQB+AAzfBR7/dAAMaXNJbnN0YW5jZU9mc3EAfgAM7K6IWXQAAj09c3EAfgAMwgSEFXQABWNsb25lc3EAfgAMmyDJ4nQACHRvU3RyaW5nc3EAfgAM9CZwjHQAAiE9c3EAfgAM+ZakF3QACGdldENsYXNzc3EAfgAM1q5OZHQAAm5lc3EAfgAM3tXgAnQAAmVxc3EAfgAMOUZkp3QAAiMjc3EAfgAMLzikF3QACGZpbmFsaXplc3EAfgAMJ7uPIXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEGV4ZXJjaXNlMC5XYXJtVXB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJZXhlcmNpc2Uwc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFph0vtnXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEtDOlxVc2Vyc1xtb255Z1xEZXNrdG9wXGJpZ2RhdGExODE5XHNwYXJrLXNyY1xTcGFya1xidWlsZFxjbGFzc2VzXHNjYWxhXG1haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABROFjFobz3K5C9w6JekJLsjUp8S+g==
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw726lkQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwLaS983QABm5vdGlmeXNxAH4ADB9zbWB0AAR3YWl0c3EAfgAMQW/bb3QADSRhc0luc3RhbmNlT2ZzcQB+AAyxVuF+dAAGZXF1YWxzc3EAfgAMEK64yHQADGFzSW5zdGFuY2VPZnNxAH4ADKuLX1Z0AAxzeW5jaHJvbml6ZWRzcQB+AAyra6h3dAANJGlzSW5zdGFuY2VPZnNxAH4ADBieo/V0AARtYWluc3EAfgAMQdEWA3QACW5vdGlmeUFsbHNxAH4ADNHsdQZ0AAxpc0luc3RhbmNlT2ZzcQB+AAx9mdj4dAACPT1zcQB+AAyDkOmydAAFY2xvbmVzcQB+AAzqb/XGdAAOU3BhcmtXb3JkQ291bnRzcQB+AAzzHLN0dAAIdG9TdHJpbmdzcQB+AAxIJpi2dAACIT1zcQB+AAzugWWydAAIZ2V0Q2xhc3NzcQB+AAxF4P2NdAACbmVzcQB+AAy1vhpQdAACZXFzcQB+AAySFlbNdAACIyNzcQB+AAzF43MHdAAIZmluYWxpemVzcQB+AAy1vBJndAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAZZXhlcmNpc2UxYS5TcGFya1dvcmRDb3VudHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApleGVyY2lzZTFhc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFph0vtnXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEtDOlxVc2Vyc1xtb255Z1xEZXNrdG9wXGJpZ2RhdGExODE5XHNwYXJrLXNyY1xTcGFya1xidWlsZFxjbGFzc2VzXHNjYWxhXG1haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRYeKSI4QgY2+Z/8p5zN25FL4+Kmg==
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwZxm+JgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEF/l13QABm5vdGlmeXNxAH4ADECI3Qt0AAR3YWl0c3EAfgAM5LjpLHQADSRhc0luc3RhbmNlT2ZzcQB+AAz5dlredAAGZXF1YWxzc3EAfgAMV3nGoXQADGFzSW5zdGFuY2VPZnNxAH4ADBFbUm10AAxzeW5jaHJvbml6ZWRzcQB+AAwKhIHodAANJGlzSW5zdGFuY2VPZnNxAH4ADOuTutx0AARtYWluc3EAfgAMAyMnz3QACW5vdGlmeUFsbHNxAH4ADFiYxQ90AAxpc0luc3RhbmNlT2ZzcQB+AAyzSH3jdAACPT1zcQB+AAxULGwTdAAFY2xvbmVzcQB+AAwNrmX7dAAUU3BhcmtXb3JkTGVuZ3RoQ291bnRzcQB+AAwx2zj+dAAIdG9TdHJpbmdzcQB+AAwE+0f+dAACIT1zcQB+AAxldPFndAAIZ2V0Q2xhc3NzcQB+AAz8qourdAACbmVzcQB+AAyje0SZdAACZXFzcQB+AAzsi2nxdAACIyNzcQB+AAxKrhjwdAAIZmluYWxpemVzcQB+AAwurUBUdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAfZXhlcmNpc2UxYi5TcGFya1dvcmRMZW5ndGhDb3VudHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApleGVyY2lzZTFic3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFph0vtnXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEtDOlxVc2Vyc1xtb255Z1xEZXNrdG9wXGJpZ2RhdGExODE5XHNwYXJrLXNyY1xTcGFya1xidWlsZFxjbGFzc2VzXHNjYWxhXG1haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTXRfZJ9vrLuRs+CfxE9AQBWijZ5g==
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwiB6aYQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHMVx43QABm5vdGlmeXNxAH4ADOa0ObF0AAR3YWl0c3EAfgAMIZSFQHQADSRhc0luc3RhbmNlT2ZzcQB+AAwlHXtzdAAGZXF1YWxzc3EAfgAMwhV403QADGFzSW5zdGFuY2VPZnNxAH4ADBVK71l0AAxzeW5jaHJvbml6ZWRzcQB+AAwEHTDfdAANJGlzSW5zdGFuY2VPZnNxAH4ADLvbWrN0AARtYWluc3EAfgAMDzJQBHQACW5vdGlmeUFsbHNxAH4ADKOynex0AAxpc0luc3RhbmNlT2ZzcQB+AAzcpm9fdAACPT1zcQB+AAy2bZpIdAAFY2xvbmVzcQB+AAxv6v23dAAIdG9TdHJpbmdzcQB+AAwXCcNxdAACIT1zcQB+AAyQ5Ly+dAAIZ2V0Q2xhc3NzcQB+AAyPSaPYdAACbmVzcQB+AAz+2KuFdAAbU3BhcmtXb3JkQXZlcmFnZUxlbmd0aENvdW50c3EAfgAMxoxcG3QAAmVxc3EAfgAMKlYaznQAAiMjc3EAfgAMHkRgy3QACGZpbmFsaXplc3EAfgAM9vdTzXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAJmV4ZXJjaXNlMWMuU3BhcmtXb3JkQXZlcmFnZUxlbmd0aENvdW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmV4ZXJjaXNlMWNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWmHS+2ddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAS0M6XFVzZXJzXG1vbnlnXERlc2t0b3BcYmlnZGF0YTE4MTlcc3Bhcmstc3JjXFNwYXJrXGJ1aWxkXGNsYXNzZXNcc2NhbGFcbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNmEfZSlcluam1cbI6YX2UL49o6G
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwH+6a2wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNQWZoHQABm5vdGlmeXNxAH4ADLUzjpV0AAR3YWl0c3EAfgAMWjPNAnQADSRhc0luc3RhbmNlT2ZzcQB+AAw/Ww6mdAAGZXF1YWxzc3EAfgAMjZmQQnQADGFzSW5zdGFuY2VPZnNxAH4ADMq/rGh0AAxzeW5jaHJvbml6ZWRzcQB+AAw8nLRudAANJGlzSW5zdGFuY2VPZnNxAH4ADLJ4bUd0AARtYWluc3EAfgAMB1Dt2HQACW5vdGlmeUFsbHNxAH4ADABO03F0AAxpc0luc3RhbmNlT2ZzcQB+AAyfT6YDdAACPT1zcQB+AAyB/LBCdAAFY2xvbmVzcQB+AAx6JmUYdAAIdG9TdHJpbmdzcQB+AAxebdA6dAACIT1zcQB+AAwI8t5kdAASU3BhcmtJbnZlcnRlZEluZGV4c3EAfgAM2J9h8nQACGdldENsYXNzc3EAfgAMylTkM3QAAm5lc3EAfgAMm5XNSHQAAmVxc3EAfgAMVEzlPHQAAiMjc3EAfgAMtX6XMXQACGZpbmFsaXplc3EAfgAMP5X1F3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHWV4ZXJjaXNlMWQuU3BhcmtJbnZlcnRlZEluZGV4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmV4ZXJjaXNlMWRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWmHS+2ddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAS0M6XFVzZXJzXG1vbnlnXERlc2t0b3BcYmlnZGF0YTE4MTlcc3Bhcmstc3JjXFNwYXJrXGJ1aWxkXGNsYXNzZXNcc2NhbGFcbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPnoAYDMAwO98wBoAOiy6jswHP0x
 external apis:
 0 items
 source infos:
-2 items
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\EntryPoint.scala -> 
+6 items
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\EntryPoint.scala -> 
 AAAAAAAAAAA=
-C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1\SparkWordCount.scala -> 
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise0\WarmUp.scala -> 
+AAAAAAAAAAA=
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1a\SparkWordCount.scala -> 
+AAAAAAAAAAA=
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1b\SparkWordLengthCount.scala -> 
+AAAAAAAAAAA=
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1c\SparkWordAverageLengthCount.scala -> 
+AAAAAAAAAAA=
+C:\Users\monyg\Desktop\bigdata1819\spark-src\Spark\src\main\scala\exercise1d\SparkInvertedIndex.scala -> 
 AAAAAAAAAAA=
 compilations:
 1 items
-0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaYFTPXx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XFVzZXJzXG1vbnlnXERlc2t0b3BcYmlnZGF0YTE4MTlcc3Bhcmstc3JjXFNwYXJrXGJ1aWxkXGNsYXNzZXNcc2NhbGFcbWFpbnQAAS8=
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaYdL7Z11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XFVzZXJzXG1vbnlnXERlc2t0b3BcYmlnZGF0YTE4MTlcc3Bhcmstc3JjXFNwYXJrXGJ1aWxkXGNsYXNzZXNcc2NhbGFcbWFpbnQAAS8=
