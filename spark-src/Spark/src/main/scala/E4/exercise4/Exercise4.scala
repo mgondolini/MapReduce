@@ -2,7 +2,7 @@ package E4.exercise4
 import E4.Setup.{rddStation, rddWeather}
 
 import E4.StationData
-object ex4 {
+object Exercise4 {
   def main(args: Array[String]): Unit = {
 
     ////// Exercise 4

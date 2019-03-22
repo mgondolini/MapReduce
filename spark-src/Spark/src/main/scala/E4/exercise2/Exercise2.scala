@@ -1,11 +1,11 @@
 package E4.exercise2
 
 import E4.Setup.rddStation
+import org.apache.spark.HashPartitioner
 
-object ex2 {
+object Exercise2 {
   def main(args: Array[String]): Unit = {
-
-
+    val p = new HashPartitioner(8)
 
     // Consider the following commands to transform the Station RDD:
 /*

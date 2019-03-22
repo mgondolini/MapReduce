@@ -4,7 +4,7 @@ import E4.Setup.{rddStation, rddWeather, sc}
 import E4.StationData
 import org.apache.spark.HashPartitioner
 
-object ex6 {
+object Exercise6 {
   def main(args: Array[String]): Unit = {
     ////// Exercise 6
 

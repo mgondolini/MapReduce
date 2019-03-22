@@ -10,5 +10,5 @@ object Setup {
   val rddWeather = sc.textFile("hdfs:/bigdata/dataset/weather-sample").map(WeatherData.extract)
   val rddStation = sc.textFile("hdfs:/bigdata/dataset/weather-info/stations.csv").map(StationData.extract)
 
-  val p = new HashPartitioner(8)
+
 }

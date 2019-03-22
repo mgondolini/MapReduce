@@ -1,7 +1,7 @@
 package E4.exercise3
 import E4.Setup.{rddStation,rddWeather}
 
-object ex3 {
+object Exercise3 {
   def main(args: Array[String]): Unit = {
 
     ////// Exercise 3
