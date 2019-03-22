@@ -1,4 +1,4 @@
-package exercise1a
+package E3.exercise1a
 
 import org.apache.spark.{SparkConf, SparkContext}
 

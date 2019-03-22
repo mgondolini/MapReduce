@@ -1,8 +1,8 @@
-package exercise1b
+package E3.exercise1d
 
 import org.apache.spark.{SparkConf, SparkContext}
 
-object SparkWordLengthCount {
+object SparkInvertedIndex {
   def main(args: Array[String]): Unit = {
 
     val sc = new SparkContext(new SparkConf().setAppName("Spark Count"))
@@ -16,8 +16,11 @@ object SparkWordLengthCount {
     val rddCapraWords2 = rddCapra.flatMap(x => x.split(" "))
     rddCapraWords2.collect()
 
-    val rddMapCapra = rddCapraWords2.map(x => (x.length,1))
+    val rddMapCapra = rddCapraWords2.zipWithIndex()
     rddMapCapra.collect()
+
+    val rddGroupCapra = rddMapCapra.groupByKey()
+    rddGroupCapra.collect()
 
     println("Divina Commedia")
     val rddDc = sc.textFile("hdfs:/bigdata/dataset/divinacommedia")
@@ -25,11 +28,11 @@ object SparkWordLengthCount {
     val rddDcWords2 = rddDc.flatMap( x => x.split(" "))
     rddDcWords2.collect()
 
-    val rddMapDc = rddDcWords2.map(x => (x.length, 1))
+    val rddMapDc = rddDcWords2.zipWithIndex()
     rddMapDc.collect()
 
-    val rddReduceDc = rddMapDc.reduceByKey((x, y) => x + y)
-    rddReduceDc.collect()
-  }
+    val rddGroupDc = rddMapDc.groupByKey()
+    rddGroupDc.collect()
 
+  }
 }
