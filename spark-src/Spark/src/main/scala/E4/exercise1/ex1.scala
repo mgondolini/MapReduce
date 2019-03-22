@@ -4,8 +4,6 @@ import E4.Setup.rddWeather
 
 object ex1 {
   def main(args: Array[String]): Unit = {
-
-
     ////// Exercise 1
 
     // We want the average AND the maximum temperature registered for every month
