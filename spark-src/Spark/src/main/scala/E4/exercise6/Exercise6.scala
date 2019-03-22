@@ -14,14 +14,38 @@ object Exercise6 {
     rddS.collect
 
     // Is it better to simply join the two RDDs..
-    rddW.join(rddS).filter(_._2._2.country=="IT").map({case(k,v)=>(v._2.name,v._1.temperature)}).reduceByKey((x,y)=>{if(x<y) y else x}).collect()
+    rddW
+      .join(rddS)
+      .filter(_._2._2.country=="IT")
+      .map({case(k,v)=>(v._2.name,v._1.temperature)})
+      .reduceByKey((x,y)=>{if(x<y) y else x})
+      .collect()
 
     // ..to enforce on rddW1 the same partitioner of rddS..
-    rddW.partitionBy(new HashPartitioner(8)).join(rddS).filter(_._2._2.country=="IT").map({case(k,v)=>(v._2.name,v._1.temperature)}).reduceByKey((x,y)=>{if(x<y) y else x}).collect()
+    rddW
+      .partitionBy(new HashPartitioner(8))
+      .join(rddS)
+      .filter(_._2._2.country=="IT")
+      .map({case(k,v)=>(v._2.name,v._1.temperature)})
+      .reduceByKey((x,y)=>{if(x<y) y else x})
+      .collect()
 
     // ..or to exploit broadcast variables?
     val bRddS = sc.broadcast(rddS.collectAsMap())
-    val rddJ = rddW.map({case (k,v) => (bRddS.value.get(k),v)}).filter(_._1!=None).map({case(k,v)=>(k.get.asInstanceOf[StationData],v)})
-    rddJ.filter(_._1.country=="IT").map({case (k,v) => (k.name,v.temperature)}).reduceByKey((x,y)=>{if(x<y) y else x}).collect()
+    val rddJ = rddW
+      .map({case (k,v) => (bRddS.value.get(k),v)})
+      .filter(_._1!=None)
+      .map({case(k,v)=>(k.get.asInstanceOf[StationData],v)})
+
+    rddJ
+      .filter(_._1.country=="IT")
+      .map({case (k,v) => (k.name,v.temperature)})
+      .reduceByKey((x,y)=>{if(x<y) y else x})
+      .collect()
+
+
+     /*@iugin
+      Secondo: peggiore (devi prima partizionare e poi rifare shuffle se dati non sono in partizioni corrispondenti su stesso executor fisico)
+      Terzo: migliore (deve solo riaccedere in memoria)*/
   }
 }

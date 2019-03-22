@@ -16,5 +16,10 @@ object Exercise5 {
     memRdd.collect()
     memSerRdd.collect()
     diskRdd.collect()
+
+    /* @iugin
+     * La serializzazione occupa meno spazio in memorizzazione, ma produce un maggior costo CPU
+     * e quindi il Tradeoff è costi-cpu
+     */
   }
 }
