@@ -19,8 +19,7 @@ public class Ex4InvertedIndex {
 
 	public static class Ex4Mapper extends Mapper<Object, Text, Text, LongWritable> {
 
-		private Text word = new Text(), firstLetter = new Text();
-		private IntWritable wordLength = new IntWritable();;
+		private Text word = new Text();
 
 		public void map(Object key, Text value, Context context) throws IOException, InterruptedException {
 			//TODO mapper code

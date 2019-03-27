@@ -15,15 +15,13 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 public class WordLengthCount {
 
-	public static class TokenizerMapper
-	extends Mapper<Object, Text, IntWritable, IntWritable>{
+	public static class TokenizerMapper extends Mapper<Object, Text, IntWritable, IntWritable>{
 
 		private final static IntWritable one = new IntWritable(1);
 		private Text word = new Text();
 		private IntWritable wordLength = new IntWritable();
 
-		public void map(Object key, Text value, Context context
-				) throws IOException, InterruptedException {
+		public void map(Object key, Text value, Context context) throws IOException, InterruptedException {
 			StringTokenizer itr = new StringTokenizer(value.toString());
 			while (itr.hasMoreTokens()) {
 				word.set(itr.nextToken());
@@ -33,13 +31,10 @@ public class WordLengthCount {
 		}
 	}
 
-	public static class IntSumReducer
-	extends Reducer<IntWritable,IntWritable,IntWritable,IntWritable> {
+	public static class IntSumReducer extends Reducer<IntWritable,IntWritable,IntWritable,IntWritable> {
 		private IntWritable result = new IntWritable();
 
-		public void reduce(IntWritable key, Iterable<IntWritable> values,
-				Context context
-				) throws IOException, InterruptedException {
+		public void reduce(IntWritable key, Iterable<IntWritable> values, Context context) throws IOException, InterruptedException {
 			int sum = 0;
 			for (IntWritable val : values) {
 				sum += val.get();
