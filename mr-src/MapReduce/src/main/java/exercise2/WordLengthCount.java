@@ -22,9 +22,9 @@ public class WordLengthCount {
 		private IntWritable wordLength = new IntWritable();
 
 		public void map(Object key, Text value, Context context) throws IOException, InterruptedException {
-			StringTokenizer itr = new StringTokenizer(value.toString());
-			while (itr.hasMoreTokens()) {
-				word.set(itr.nextToken());
+			StringTokenizer tokenizer = new StringTokenizer(value.toString());
+			while (tokenizer.hasMoreTokens()) {
+				word.set(tokenizer.nextToken());
 				wordLength.set(word.getLength());
 				context.write(wordLength, one);
 			}

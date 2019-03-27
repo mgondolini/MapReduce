@@ -23,9 +23,9 @@ public class Ex4InvertedIndex {
 
 		public void map(Object key, Text value, Context context) throws IOException, InterruptedException {
 			//TODO mapper code
-			StringTokenizer itr = new StringTokenizer(value.toString());
-			while(itr.hasMoreTokens()){
-				word.set(itr.nextToken());
+			StringTokenizer tokenizer = new StringTokenizer(value.toString());
+			while(tokenizer.hasMoreTokens()){
+				word.set(tokenizer.nextToken());
 				context.write(word, (LongWritable) key);
 				System.out.println(word + "," + key);
 			}
