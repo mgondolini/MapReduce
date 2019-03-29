@@ -17,6 +17,8 @@ dependencies {
     implementation 'org.scala-lang:scala-library:2.11.2'
 
     compile group: 'org.apache.spark', name: 'spark-core_2.11', version: '2.1.0'
+// https://mvnrepository.com/artifact/org.apache.spark/spark-streaming
+    compile group: 'org.apache.spark', name: 'spark-streaming_2.12', version: '2.4.0'
 
     compile files('hadoop-min-jars/hadoop-common-2.6.0-cdh5.13.1.jar')
     compile files('hadoop-min-jars/hadoop-core-2.6.0-mr1-cdh5.13.1.jar')
