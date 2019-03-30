@@ -6,6 +6,7 @@ import Setup.sc
 
 object Exercise0 extends App{
 
+  ////////// Exercise 0: setup
   // Remember to check the IP address!!
 
   val ssc = new StreamingContext(sc, Seconds(3))

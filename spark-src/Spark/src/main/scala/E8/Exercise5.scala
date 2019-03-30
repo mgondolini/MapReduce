@@ -2,7 +2,10 @@ package E8
 import Setup.sc
 import org.apache.spark.streaming._
 import org.apache.spark.storage.StorageLevel
+
 object Exercise5 extends App{
+
+  ////////// Exercise 5: trending hashtags
 
   val ssc = new StreamingContext(sc, Seconds(10))
   val lines = ssc.socketTextStream("137.204.72.242",9999,StorageLevel.MEMORY_AND_DISK_SER).window(Seconds(60), Seconds(10))

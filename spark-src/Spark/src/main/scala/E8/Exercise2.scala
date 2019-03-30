@@ -6,6 +6,7 @@ import Setup.sc
 
 object Exercise2 extends App{
 
+  ////////// Exercise 2: checkpointing
   def functionToCreateContext(): StreamingContext = {
     val newSsc = new StreamingContext(sc, Seconds(3))
     val lines = newSsc.socketTextStream("137.204.72.242",9999,StorageLevel.MEMORY_AND_DISK_SER)

@@ -6,6 +6,7 @@ import org.apache.spark.streaming.{Seconds, StreamingContext}
 
 object Exercise6 extends App{
 
+  ////////// Exercise 6: counting tweets by city
   val ssc = new StreamingContext(sc, Seconds(10))
   val lines = ssc.socketTextStream("137.204.72.242",9999,StorageLevel.MEMORY_AND_DISK_SER).window(Seconds(60), Seconds(10))
   val columns = lines.filter(_.nonEmpty).map(_.split("\\|"))

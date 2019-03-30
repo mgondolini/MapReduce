@@ -6,6 +6,7 @@ import org.apache.spark.storage.StorageLevel
 
 object Exercise4 extends App{
 
+  ////////// Exercise 4: sliding, overlapping windows
   val ssc = new StreamingContext(sc, Seconds(3))
   val lines = ssc.socketTextStream("137.204.72.242",9999,StorageLevel.MEMORY_AND_DISK_SER).window(Seconds(30), Seconds(3))
   val words = lines.flatMap(_.split(" "))

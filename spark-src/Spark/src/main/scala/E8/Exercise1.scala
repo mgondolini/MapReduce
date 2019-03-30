@@ -6,6 +6,7 @@ import org.apache.spark.storage.StorageLevel
 
 object Exercise1 extends App{
 
+  ////////// Exercise 1: word count
   val ssc = new StreamingContext(sc, Seconds(3))
   val lines = ssc.socketTextStream("137.204.72.242",9999,StorageLevel.MEMORY_AND_DISK_SER)
   val words = lines.flatMap(_.split(" "))
