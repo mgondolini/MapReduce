@@ -24,11 +24,11 @@ object Exercise7 extends App {
     val cities = tweets.filter(x => x(7)!="" && x(7)!="0" && x(3)!="").map(x => ( x(7),(1,x(3).toInt) ) )
     val cumulativeCityCounts = cities.updateStateByKey(updateFunction)
     cumulativeCityCounts.map({case(k,v)=>(v,k)}).transform({ rdd => rdd.sortByKey(false) }).print()
-    newSsc.checkpoint("hdfs:/user/egallinucci/streaming/checkpoint4")
+    newSsc.checkpoint("hdfs:/user/mgondolini/streaming/checkpoint4")
     newSsc
   }
 
-  val ssc = StreamingContext.getOrCreate("hdfs:/user/egallinucci/streaming/checkpoint4", functionToCreateContext _)
+  val ssc = StreamingContext.getOrCreate("hdfs:/user/mgondolini/streaming/checkpoint4", functionToCreateContext _)
   ssc.start()
 
   ssc.stop(false)

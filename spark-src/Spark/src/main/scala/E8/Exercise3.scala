@@ -17,11 +17,11 @@ object Exercise3 extends App{
     val words = lines.flatMap(_.split(" "))
     val cumulativeWordCounts = words.map(x => (x, 1)).updateStateByKey(updateFunction)
     cumulativeWordCounts.map({case(k,v)=>(v,k)}).transform({ rdd => rdd.sortByKey(false) }).print()
-    newSsc.checkpoint("hdfs:/user/egallinucci/streaming/checkpoint2")
+    newSsc.checkpoint("hdfs:/user/mgondolini/streaming/checkpoint2")
     newSsc
   }
 
-  val ssc = StreamingContext.getOrCreate("hdfs:/user/egallinucci/streaming/checkpoint2", functionToCreateContext _)
+  val ssc = StreamingContext.getOrCreate("hdfs:/user/mgondolini/streaming/checkpoint2", functionToCreateContext _)
   ssc.start()
 
   ssc.stop(false)
