@@ -37,7 +37,4 @@ object Exercise1 {
   val userdataDF = sqlContex.read.load("/bigdata/dataset/userdata")
   userdataDF.show()
 
-
-
-
 }
