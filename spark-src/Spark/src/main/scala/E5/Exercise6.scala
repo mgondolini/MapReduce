@@ -1,6 +1,6 @@
-package E8
+package E5
 
-import E8.Setup.sc
+import E5.Setup.sc
 import org.apache.spark.storage.StorageLevel
 import org.apache.spark.streaming.{Seconds, StreamingContext}
 

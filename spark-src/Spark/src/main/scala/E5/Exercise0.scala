@@ -1,19 +1,22 @@
-package E8
+package E5
 
-import Setup.sc
 import org.apache.spark.streaming._
 import org.apache.spark.storage.StorageLevel
+import Setup.sc
 
-object Exercise1 extends App{
+object Exercise0 extends App{
 
-  ////////// Exercise 1: word count
+  ////////// Exercise 0: setup
+  // Remember to check the IP address!!
+
   val ssc = new StreamingContext(sc, Seconds(3))
   val lines = ssc.socketTextStream("137.204.72.242",9999,StorageLevel.MEMORY_AND_DISK_SER)
   val words = lines.flatMap(_.split(" "))
-  val wordCounts = words.map(x => (x, 1)).reduceByKey(_ + _).map({case(k,v)=>(v,k)}).transform({ rdd => rdd.sortByKey(false) })
-  wordCounts.print()
+  val count = words.count()
+  count.print()
   ssc.start()
 
-  ssc.stop(false)
+  // Copy/paste this final command to terminate the application
 
+  ssc.stop(false)
 }
