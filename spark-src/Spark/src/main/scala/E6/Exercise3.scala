@@ -1,6 +1,6 @@
 package E6
 
-import E6.Exercise1.{sqlContex}
+import E6.Exercise1.sqlContext
 
 object Exercise3 {
 
@@ -14,13 +14,13 @@ object Exercise3 {
   val zipcodeTable = "zipcode"
 
   // Load the table into DataFrame
-  val geoDF = sqlContex.read.format("jdbc").options(Map("driver"->"oracle.jdbc.driver.OracleDriver","url" -> url,"US_GEOGRAPHY" -> geoTable)).load()
+  val geoDF = sqlContext.read.format("jdbc").options(Map("driver"->"oracle.jdbc.driver.OracleDriver","url" -> url,"US_GEOGRAPHY" -> geoTable)).load()
   // Print schema and display sample rows
   geoDF.printSchema()
   geoDF.show()
 
   // Load the table into DataFrame
-  val zipcodeDF = sqlContex.read.format("jdbc").options(Map("driver"->"oracle.jdbc.driver.OracleDriver","url" -> url,"ZIPCODE_POPULATION" -> zipcodeTable)).load()
+  val zipcodeDF = sqlContext.read.format("jdbc").options(Map("driver"->"oracle.jdbc.driver.OracleDriver","url" -> url,"ZIPCODE_POPULATION" -> zipcodeTable)).load()
   // Print schema and display sample rows
   zipcodeDF.printSchema()
   zipcodeDF.show()

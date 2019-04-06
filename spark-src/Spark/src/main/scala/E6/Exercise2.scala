@@ -1,6 +1,6 @@
 package E6
 
-import E6.Exercise1.{moviesDF,populationDF,userdataDF,sqlContex}
+import E6.Exercise1.{moviesDF,populationDF,userdataDF,sqlContext}
 
 object Exercise2 {
 
@@ -9,7 +9,7 @@ object Exercise2 {
 
   // Userdata to Hive Table
   userdataDF.createOrReplaceTempView("mgUserdataTemp")
-  sqlContex.sql("create table mgUserdata as select * from mgUserdataTemp")
+  sqlContext.sql("create table mgUserdata as select * from mgUserdataTemp")
   // second method
   userdataDF.write.saveAsTable("mgUserdata")
 
