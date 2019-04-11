@@ -10,11 +10,13 @@ object Exercise4 {
   - Take just one decimal
  */
 
-  //TODO
-  val total = populationDF.where("totalPopulation > 10000") //ok
-  total.show()
-//  val newPopulationDF = populationDF.withColumn("Total Thousands Population", )
+  populationDF.registerTempTable("population")
 
+  val newPopDF = sqlContext.sql("select zipcode, totalPopulation, medianAge , round(totalPopulation/1000,1) as totPopulation_k from population")
 
+  //result
+  //newPopDF: org.apache.spark.sql.DataFrame = [zipcode: decimal(8,0), totalpopulation: decimal(15,0), medianage: decimal(4,0), totpopulation_k: decimal(26,1)]
+
+  newPopDF.show()
 
 }

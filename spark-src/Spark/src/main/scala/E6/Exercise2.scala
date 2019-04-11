@@ -16,4 +16,14 @@ object Exercise2 {
   // Movies to Parquet
   moviesDF.write.format("parquet").save("mgondolini_movies")
 
+
+  //---SOLUTIONS--------------------------------------------------------
+  //Dataframe to JSON
+  populationDF.write.mode("append").json("people.json")
+
+  //Parquet to Hive Table
+  userdataDF.saveAsTable("parquet_table")
+
+  //Movies to Parquet
+  moviesDF.write.parquet("movies.parquet")
 }
