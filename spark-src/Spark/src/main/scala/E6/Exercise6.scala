@@ -3,6 +3,7 @@ package E6
 import E6.Exercise1.{sc, sqlContext}
 
 object Exercise6 {
+
   import sqlContext.implicits._
   case class Transaction(street: String, city: String, zip: String, state: String, beds: String, baths: String, sq__ft: String, tipo: String, price: String)
 
@@ -10,10 +11,13 @@ object Exercise6 {
 
   transaction_df.registerTempTable("transaction")
 
+  //create a new column for saled price converted in euros 1€ -> 1.237$
+
   val convertedTransactions_df = sqlContext.sql("select city,(price*1.237) price_eur from transaction")
 
   convertedTransactions_df.registerTempTable("converted")
 
+  //select rows with average selling price per city > 100000
   val city_avg = sqlContext.sql("select city,avg(price_eur) avg_price from converted group by city")
 
   city_avg.count()

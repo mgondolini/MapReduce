@@ -5,6 +5,10 @@ import E6.Exercise3.geoDF
 
 object Exercise5 {
 
+/*  Take geography and population DF repeat the same transformations applied in the last exercise pushing down queries on DB
+  - Print the first 100 rows
+  - OPTIONAL : you can run SQL directly on files if want to save space  */
+
   val joinedRDD = geoDF.filter("county = 'Los Angeles'").join(populationDF,geoDF("ZIPCODE") === populationDF("zipcode"))
   val aggrRDD = joinedRDD.groupBy("zipcode").agg(sum("totalPopulation")/1000)
   val sortedRDD = aggrRDD.orderBy(desc("zipcode"))

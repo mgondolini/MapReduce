@@ -9,6 +9,7 @@ object Exercise2 {
 
   // Userdata to Hive Table
   userdataDF.createOrReplaceTempView("mgUserdataTemp")
+//  userdataDF.registerTempTable("mgUserDataTemp")
   sqlContext.sql("create table mgUserdata as select * from mgUserdataTemp")
   // second method
   userdataDF.write.saveAsTable("mgUserdata")
@@ -22,7 +23,7 @@ object Exercise2 {
   populationDF.write.mode("append").json("people.json")
 
   //Parquet to Hive Table
-  userdataDF.saveAsTable("parquet_table")
+  userdataDF.write.saveAsTable("parquet_table")
 
   //Movies to Parquet
   moviesDF.write.parquet("movies.parquet")

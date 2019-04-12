@@ -6,8 +6,6 @@ object Exercise3 {
 
   // https://prasanthkothuri.wordpress.com/2017/12/10/connecting-apache-spark-and-sql-databases/
 
-  //TODO verificare e cambiare url
-
   // Connection url and the table (can also be query instead of table)
   val url = "jdbc:oracle:thin:amordenti/amordenti@137.204.78.85:1521/SISINF"
   val table = "US_GEOGRAPHY"
@@ -31,9 +29,6 @@ object Exercise3 {
   geoDF.registerTempTable("geoTableTemp")
   val geoCalifornia = sqlContext.sql("select * from geoTableTemp where STATE = 'California'")
   geoCalifornia.show()
-//
-//  geoDF.select("land").filter("state = California").show()
-//  zipcodeDF.select("land").filter("state = California")
 
   zipcodeDF.show(100)
 
@@ -59,8 +54,6 @@ object Exercise3 {
   // |-- TOTALFEMALES: integer (nullable = true)
 
 
-
-//
 //  geoDF.registerTempTable("geo")
 //  val geoCalifornia = sqlContext.sql("select * from geo where STATE = 'California'")
 //  geoCalifornia.show()
