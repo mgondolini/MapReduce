@@ -26,4 +26,7 @@ class Exercise2 {
   val PPE_DF = sqlContext.sql("select * from gruppo5fila2.ppec")
   PPE_DF.show()
 
+
+
+
 }
