@@ -1,6 +1,6 @@
 package main.scala.E8
 
-class Exercise3 {
+object Exercise3 {
 
   val sc = new SparkContext(new SparkConf().setAppName("Spark Count"))
 

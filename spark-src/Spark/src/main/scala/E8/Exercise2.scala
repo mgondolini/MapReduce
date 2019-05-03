@@ -1,6 +1,6 @@
 package main.scala.E8
 
-class Exercise2 {
+object Exercise2 {
 
   import org.apache.spark.SparkContext
   import org.apache.spark.SparkConf
