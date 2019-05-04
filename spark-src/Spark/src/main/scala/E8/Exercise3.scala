@@ -1,20 +1,20 @@
-package main.scala.E8
+package E8
+
+import org.apache.spark.sql.types.IntegerType
+import E8.Exercise2.{sqlContext, sc}
 
 object Exercise3 {
 
-  val sc = new SparkContext(new SparkConf().setAppName("Spark Count"))
-
-  // SQL context
-  val sqlContext = new org.apache.spark.sql.SQLContext(sc)
-
   import org.apache.spark.sql.Row
   import org.apache.spark.sql.types.{StructType,StructField,StringType}
-  val geo = sc.textFile("hdfs:////bigdata/dataset/postcodes/geo_germany.txt")
-  val schemaString = "name surname age"
 
-  val schema2 = StructType(schemaString.split(",").map(fieldName ⇒ StructField(fieldName, StringType, true)))
+  val geoGermany = sc.textFile("hdfs:////bigdata/dataset/postcodes/geo_germany.txt")
+  val schemaString = "id land landkreis city zipcode"
 
-  val rowRDD = geo.map(_.split(",")).map(e ⇒ Row(e(0).toInt(), e(1), e(2), e(3), e(4).toInt()))
+  val schema2 = StructType(schemaString.split(" ").map(fieldName ⇒ StructField(fieldName, StringType, true)))
+
+  val rowRDD = geoGermany.map(_.split(",")).map(e ⇒ Row(e(0), e(1), e(2), e(3), e(4)))
+
   val schema = StructType(List(StructField("id", IntegerType),
      StructField("land", StringType),
      StructField("landkreis", StringType),
@@ -22,5 +22,9 @@ object Exercise3 {
      StructField("zipcode", IntegerType)
    ))
 
-  val geodf = sqlContext.createDataFrame(rowRDD, schema)
+  val geoGermanyDf = sqlContext.createDataFrame(rowRDD, schema)
+
+  val geoGermanyDf2 = sqlContext.createDataFrame(rowRDD, schema2)
+
+  geoGermanyDf2.show()
 }

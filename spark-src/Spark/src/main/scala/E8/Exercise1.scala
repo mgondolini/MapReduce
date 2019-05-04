@@ -1,4 +1,4 @@
-package main.scala.E8
+package E8
 
 class Exercise1 {
 //SQOOP TABLE IMPORT (write in a signle line)
